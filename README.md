@@ -1,7 +1,7 @@
 # leetcode_curation_topical
 
 Arrays/Strings
-Maximum subarray (easy)
+Maximum subarray (easy) https://leetcode.com/problems/maximum-subarray/description/
 Merge sorted array (easy)
 Reverse string (easy)
 3sum (medium)
